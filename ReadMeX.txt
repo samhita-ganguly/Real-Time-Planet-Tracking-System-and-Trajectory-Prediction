@@ -1,4 +1,0 @@
-Real
-Time
-Planet
-Tracking
